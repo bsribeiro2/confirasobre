@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="5;url=https://www.google.com/">
+</head>
+<body>
+    <!-- Coloque aqui a imagem que você deseja mostrar como página de espera -->
+    <img src="https://www.hardware.com.br/wp-content/uploads/static/wp/2023/03/24/Destaque-ChatGPT.jpg" alt="Página de espera">
+    <p>Aguarde, você será redirecionado em 5 segundos...</p>
+</body>
+</html>
